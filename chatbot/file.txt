@@ -1,0 +1,33 @@
+"Hello",
+    "Hi there!",
+    "Hi",
+    "Hi!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "You're welcome.",
+    'What is your name?', 'My name is Resume ChatBot',
+    'Who created you?', 'Swapnil'
+    "Tell me about yourself",
+    "My name is Swapnil Kothare. I am a final year information technology engineering student at St.John college of engineering and management",
+    "Contact",
+    "Email : swapnilk@sjcem.edu.in, Mobile number : +91 7558603403 Location : palghar, Maharashtra",
+    "Education",
+    "Bachelor of Engineering (B.E), '\n'
+    Information Technology & Engineering\n 
+    Palghar St.John college of engineering and management Palghr '\n'
+    2018 - 2022 '\n'
+    CGPA: 7.86/10 '\n'
+    HSC (XII), Science
+    Viva College of arts commerce and science Virar Maharashtra
+    (MAHARASHTRA STATE BOARD board)
+    Year of completion: 2018
+    Percentage: 72.00%
+    SSC (X)
+    Utkarsha vidyalaya
+    (MAHARASHTRA STATE BOARd board)
+    Year of completion: 2016
+    Percentage: 84.00%",
+    "Projects",
+    ""
